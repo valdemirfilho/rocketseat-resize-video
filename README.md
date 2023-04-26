@@ -2,7 +2,7 @@
 Extensão para redimensionar os vídeos das aulas da plataforma de ensino da Rocketseat
 
 ### 🧩 Download 🧩
-https://github.com/valdemirfilho/rocketseat-resize-video/releases/download/v1.0-beta/rocketseat-resize-video.zip
+[https://github.com/valdemirfilho/rocketseat-resize-video/releases/download/v1.1-beta/rocketseat-resize-video.zip](https://github.com/valdemirfilho/rocketseat-resize-video/releases/download/v1.1-beta/rocketseat-resize-video.zip)
 
 #### Após o download do arquivo __*rocketseat-resize-video.zip*__:
 >1. Descompactar o arquivo __rocketseat-resize-video.zip__ em um local do seu __HD/SSD__ que seja fácil de encontrar depois.
