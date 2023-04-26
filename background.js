@@ -1,6 +1,6 @@
 chrome.runtime.onInstalled.addListener(() => {
   chrome.action.setBadgeText({
-    text: "on",
+    text: "off",
   });
 });
 

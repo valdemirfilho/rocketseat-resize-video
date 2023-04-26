@@ -14,6 +14,19 @@
   "background": {
     "service_worker": "background.js"
   },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://app.rocketseat.com.br/*"
+      ],
+      "js": [
+        "script.js"
+      ]
+    }
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
   "permissions": [
     "activeTab",
     "scripting"
