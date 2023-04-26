@@ -4,8 +4,8 @@ Extensão para redimensionar os vídeos das aulas da plataforma de ensino da Roc
 ### 🧩 Download 
 https://github.com/valdemirfilho/rocketseat-resize-video/releases/download/v1.0-beta/rocketseat-resize-video.zip
 
-#### Após o download do arquivo _rocketseat-resize-video.zip_:
-1. Descompactar o arquivo _rocketseat-resize-video.zip_ em um local do seu _HD/SSD_ que seja fácil de encontrar depois.
+#### Após o download do arquivo __rocketseat-resize-video.zip__:
+1. Descompactar o arquivo __rocketseat-resize-video.zip__ em um local do seu __HD/SSD__ que seja fácil de encontrar depois.
 2. Execute o navegador _Google Chrome_. (Deve funcionar no _Microsoft Edge_ e em outros navegadores que aceitam extensões do _Google Chrome_.)
 3. No canto superior direito clique no menu com ícone de três pontos [︙]. Vá até `mais ferramentas`, depois `extensões`.
 4. Na janela de Extensões no canto superior direito habilite o `modo de desenvolvedor`. Irão surgir novos botões no canto superior esquerdo.
