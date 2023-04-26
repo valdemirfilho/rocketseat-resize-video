@@ -24,3 +24,33 @@ body #skylabWrapper>div {
 #app>div.sc-cBYayr.fPGbor>div.sc-jfJzZe.hUramm {
   display: none;
 }
+
+#panda-player {
+  box-shadow: rgba(180, 180, 191, 0.571) 0px 0px 0px 10000px inset;
+  border-radius: 0.8rem;
+}
+
+#skylabWrapper>div>div.sc-fjZpIJ.gOlYJU {
+  margin: 1rem 0;
+  background-color: rgb(32, 32, 36);
+  padding: 0.5rem 1rem;
+  width: fit-content;
+  border-radius: 0.5rem;
+  font-weight: 700;
+}
+
+#skylabWrapper>div>div.sc-fVSzNF.iCoiqx>div>div.sc-bMYSqt.hDFksD {
+  display: none;
+}
+
+@media (min-width: 600px) and (max-width: 1000px) {
+  #skylabWrapper>div>div.sc-fVSzNF.iCoiqx>aside {
+    display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  #skylabWrapper>div>div.sc-fVSzNF.iCoiqx>aside>div>div>div:nth-child(1) {
+    margin-top: 1rem;
+  }
+}
