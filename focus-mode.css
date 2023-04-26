@@ -1,0 +1,26 @@
+body #skylabWrapper>div {
+  max-width: 1900px;
+  padding: 0;
+  width: 98%;
+}
+
+#app>div {
+  padding-top: 0;
+}
+
+#app>div.sc-ksPlPm>div.sc-jfJzZe {
+  display: none;
+}
+
+#skylabWrapper>div>div {
+  margin: 0;
+}
+
+#skylabWrapper>div>div:nth-of-type(2)>aside {
+  max-height: initial;
+  margin: 0;
+}
+
+#app>div.sc-cBYayr.fPGbor>div.sc-jfJzZe.hUramm {
+  display: none;
+}
