@@ -7,8 +7,8 @@ Extensão para redimensionar os vídeos das aulas da plataforma de ensino da Roc
   <img alt="" src=".github/preview.gif" width="100%">
   
 ### 🧩 Download 🧩
+[https://github.com/valdemirfilho/rocketseat-resize-video/releases/download/v1.1-beta/rocketseat-resize-video-v1.1.zip](https://github.com/valdemirfilho/rocketseat-resize-video/releases/download/v1.1-beta/rocketseat-resize-video-v1.1.zip)
 
-[https://github.com/valdemirfilho/rocketseat-resize-video/releases/download/v1.1-beta/rocketseat-resize-video.zip](https://github.com/valdemirfilho/rocketseat-resize-video/releases/download/v1.1-beta/rocketseat-resize-video.zip)
 
 #### Após o download do arquivo **_rocketseat-resize-video.zip_**:
 
