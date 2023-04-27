@@ -43,6 +43,14 @@ body #skylabWrapper>div {
   display: none;
 }
 
+#skylabWrapper .fIwNWb {
+  gap: 0.5rem;
+}
+
+#skylabWrapper .gWmVKG {
+  padding-block: 0.75rem;
+}
+
 @media (min-width: 600px) and (max-width: 1000px) {
   #skylabWrapper>div>div.sc-fVSzNF.iCoiqx>aside {
     display: none;
