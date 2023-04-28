@@ -8,7 +8,12 @@ body #skylabWrapper>div {
   padding-top: 0;
 }
 
+/* Remove a navbar */
 #app>div.sc-ksPlPm>div.sc-jfJzZe {
+  display: none;
+}
+
+#app>div.sc-cBYayr.fPGbor>div.sc-jfJzZe.hUramm {
   display: none;
 }
 
@@ -21,15 +26,13 @@ body #skylabWrapper>div {
   margin: 0;
 }
 
-#app>div.sc-cBYayr.fPGbor>div.sc-jfJzZe.hUramm {
-  display: none;
-}
-
+/* Adiciona border-radius no player */
 #panda-player {
   box-shadow: rgba(180, 180, 191, 0.571) 0px 0px 0px 10000px inset;
   border-radius: 0.8rem;
 }
 
+/* Estiliza os breadcrumbs do Explorer */
 #skylabWrapper>div>div.sc-fjZpIJ.gOlYJU {
   margin: 1rem 0;
   background-color: rgb(32, 32, 36);
@@ -39,18 +42,44 @@ body #skylabWrapper>div {
   font-weight: 700;
 }
 
-#skylabWrapper>div>div.sc-fVSzNF.iCoiqx>div>div.sc-bMYSqt.hDFksD {
+/* Estiliza os breadcrumbs do Ignite e dos cursos exclusivos */
+#skylabWrapper>div>div.sc-fjZpIJ.gWmVKG,
+#skylabWrapper>div>div.sc-SdmaE.bVTzDN {
+  margin: 1rem 0;
+  background-color: rgb(32, 32, 36);
+  padding: 0.5rem 1rem;
+  width: fit-content;
+  border-radius: 0.5rem;
+  font-weight: 700;
+}
+
+/* Adiciona cores nos breadcrumbs do Ignite */
+#skylabWrapper>div>div.sc-SdmaE.bVTzDN>a:nth-child(5),
+#skylabWrapper>div>div.sc-fjZpIJ.gWmVKG>a:nth-child(5) {
+  color: rgb(0, 179, 126);
+}
+
+/* Remove avaliar vídeo */
+#skylabWrapper>div>div.sc-fVSzNF.iCoiqx>div>div.sc-bMYSqt.hDFksD,
+#skylabWrapper>div>div.sc-joetPs.fIwNWb>div>div.sc-bMYSqt.hDFksD,
+#skylabWrapper>div>div.sc-eiBfYF.bPYJSX>div>div.sc-gIvUS.kVVozh {
   display: none;
 }
 
+/* Remove e adiciona o menu das aulas quando entra no mobie/desktop */
 @media (min-width: 600px) and (max-width: 1000px) {
-  #skylabWrapper>div>div.sc-fVSzNF.iCoiqx>aside {
+
+  #skylabWrapper>div>div.sc-fVSzNF.iCoiqx>aside,
+  #skylabWrapper>div>div.sc-eiBfYF.bPYJSX>aside {
     display: none;
   }
 }
 
+/* Adiciona um espaçamento entre as aulas quando está na versão mobile  */
 @media (max-width: 768px) {
-  #skylabWrapper>div>div.sc-fVSzNF.iCoiqx>aside>div>div>div:nth-child(1) {
+
+  #skylabWrapper>div>div.sc-fVSzNF.iCoiqx>aside>div>div>div:nth-child(1),
+  #skylabWrapper>div>div.sc-eiBfYF.bPYJSX>aside>div>div>div:nth-child(1) {
     margin-top: 1rem;
   }
 }
