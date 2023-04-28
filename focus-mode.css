@@ -21,10 +21,6 @@ body #skylabWrapper > div {
   margin: 0;
 }
 
-#app > div.sc-cBYayr.fPGbor > div.sc-jfJzZe.hUramm {
-  display: none;
-}
-
 #panda-player {
   box-shadow: rgba(180, 180, 191, 0.571) 0px 0px 0px 10000px inset;
   border-radius: 0.5rem 0.5rem 0 0;
@@ -45,6 +41,7 @@ body #skylabWrapper > div {
 }
 
 #skylabWrapper > div > div.sc-joetPs.fIwNWb {
+  margin-top: 3rem;
   gap: 1rem;
 }
 
