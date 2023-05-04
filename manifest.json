@@ -1,7 +1,7 @@
 {
   "name": "Rocketseat Resize Videos",
   "description": "Extensão para redimensionar os vídeos das aulas da plataforma de ensino da Rocketseat",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "manifest_version": 3,
   "icons": {
     "32": "images/icon-32.png"
