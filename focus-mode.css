@@ -35,13 +35,20 @@ body #skylabWrapper > div {
   font-weight: 700;
 }
 
-#skylabWrapper > div > div.sc-bbgIzc.dYqhDf {
+#skylabWrapper > div > div.sc-cgwbBY.kA-DSOK,
+#skylabWrapper > div > div.sc-bbgIzc.dYqhDf,
+#skylabWrapper
+  > div
+  > div.sc-bDfZJo.jvIMAq
+  > div.sc-fQnAPK.hDhSfe
+  > div
+  > div
+  > div {
   margin-inline: auto;
   max-width: unset;
 }
-
 #skylabWrapper > div > div.sc-joetPs.fIwNWb {
-  margin-top: 3rem;
+  margin-top: 5rem;
   gap: 1rem;
 }
 
