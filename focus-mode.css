@@ -35,6 +35,11 @@ body #skylabWrapper > div {
   font-weight: 700;
 }
 
+#skylabWrapper > div > div.sc-fVSzNF.iCoiqx {
+  gap: 1rem;
+  /* margin-top: 3rem; */
+}
+
 #skylabWrapper > div > div.sc-cgwbBY.kA-DSOK,
 #skylabWrapper > div > div.sc-bbgIzc.dYqhDf,
 #skylabWrapper
