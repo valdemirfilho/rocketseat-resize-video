@@ -13,7 +13,7 @@ body #skylabWrapper > div {
 }
 
 #skylabWrapper > div > div {
-  margin: 0;
+  margin: 1rem;
 }
 
 #skylabWrapper > div > div:nth-of-type(2) > aside {
@@ -27,7 +27,7 @@ body #skylabWrapper > div {
 }
 
 #skylabWrapper > div > div.sc-fjZpIJ.gOlYJU {
-  margin: 1rem 0;
+  margin-top: 5.5rem;
   background-color: rgb(32, 32, 36);
   padding: 0.5rem 1rem;
   width: fit-content;
@@ -35,9 +35,13 @@ body #skylabWrapper > div {
   font-weight: 700;
 }
 
-#skylabWrapper > div > div.sc-fVSzNF.iCoiqx {
+#skylabWrapper > div > div.sc-tUeKj.ckJIJo {
+  margin-top: 6.5rem;
+}
+
+#skylabWrapper > div > div.sc-fZzdtO.gkhBGp {
+  margin-top: 1.5rem;
   gap: 1rem;
-  /* margin-top: 3rem; */
 }
 
 #skylabWrapper > div > div.sc-cgwbBY.kA-DSOK,
@@ -52,8 +56,9 @@ body #skylabWrapper > div {
   margin-inline: auto;
   max-width: unset;
 }
-#skylabWrapper > div > div.sc-joetPs.fIwNWb {
-  margin-top: 5rem;
+
+#skylabWrapper > div > div.sc-fVSzNF.iCoiqx {
+  margin-top: 0.8rem;
   gap: 1rem;
 }
 
