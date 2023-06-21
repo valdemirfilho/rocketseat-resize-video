@@ -12,10 +12,6 @@ body #skylabWrapper > div {
   display: none;
 }
 
-#skylabWrapper > div > div {
-  margin: 1rem;
-}
-
 #skylabWrapper > div > div:nth-of-type(2) > aside {
   max-height: initial;
   margin: 0;
@@ -27,7 +23,7 @@ body #skylabWrapper > div {
 }
 
 #skylabWrapper > div > div.sc-fjZpIJ.gOlYJU {
-  margin-top: 5.5rem;
+  margin-block: 5.5rem 1rem;
   background-color: rgb(32, 32, 36);
   padding: 0.5rem 1rem;
   width: fit-content;
@@ -39,8 +35,7 @@ body #skylabWrapper > div {
   margin-top: 6.5rem;
 }
 
-#skylabWrapper > div > div.sc-fZzdtO.gkhBGp {
-  margin-top: 1.5rem;
+#skylabWrapper > div > div.sc-joetPs.fIwNWb {
   gap: 1rem;
 }
 
