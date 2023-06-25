@@ -30,26 +30,17 @@ body #skylabWrapper > div {
   border-radius: 0.5rem;
   font-weight: 700;
 }
+#skylabWrapper > div > div.sc-hKkhaR.eOMTYL {
+  max-width: unset;
+}
 
-#skylabWrapper > div > div.sc-tUeKj.ckJIJo {
+#skylabWrapper > div > div.sc-eJceAv.dufWSH {
   margin-top: 6.5rem;
+  margin-bottom: 1rem;
 }
 
 #skylabWrapper > div > div.sc-joetPs.fIwNWb {
   gap: 1rem;
-}
-
-#skylabWrapper > div > div.sc-cgwbBY.kA-DSOK,
-#skylabWrapper > div > div.sc-bbgIzc.dYqhDf,
-#skylabWrapper
-  > div
-  > div.sc-bDfZJo.jvIMAq
-  > div.sc-fQnAPK.hDhSfe
-  > div
-  > div
-  > div {
-  margin-inline: auto;
-  max-width: unset;
 }
 
 #skylabWrapper > div > div.sc-fVSzNF.iCoiqx {
