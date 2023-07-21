@@ -1,18 +1,18 @@
-body #skylabWrapper > div {
+body #skylabWrapper>div {
   max-width: 1900px;
   padding: 0;
   width: 85%;
 }
 
-#app > div {
+#app>div {
   padding-top: 0;
 }
 
-#app > div.sc-ksPlPm > div.sc-jfJzZe {
+#app>div.sc-ksPlPm>div.sc-jfJzZe {
   display: none;
 }
 
-#skylabWrapper > div > div:nth-of-type(2) > aside {
+#skylabWrapper>div>div:nth-of-type(2)>aside {
   max-height: initial;
   margin: 0;
 }
@@ -22,7 +22,7 @@ body #skylabWrapper > div {
   border-radius: 0.5rem 0.5rem 0 0;
 }
 
-#skylabWrapper > div > div.sc-fjZpIJ.gOlYJU {
+#skylabWrapper>div>div.sc-fjZpIJ.gOlYJU {
   margin-block: 5.5rem 1rem;
   background-color: rgb(32, 32, 36);
   padding: 0.5rem 1rem;
@@ -30,42 +30,37 @@ body #skylabWrapper > div {
   border-radius: 0.5rem;
   font-weight: 700;
 }
-#skylabWrapper > div > div.sc-hKkhaR.eOMTYL {
+
+#skylabWrapper>div>div.sc-bGXYLz.agRYe {
   max-width: unset;
 }
 
-#skylabWrapper > div > div.sc-iyHKyE.jPZbC {
+#skylabWrapper>div>div.sc-iyHKyE.jPZbC {
   margin-top: 5.5rem;
   margin-bottom: 1rem;
 }
 
-#skylabWrapper > div > div.sc-joetPs.fIwNWb {
+#skylabWrapper>div>div.sc-joetPs.fIwNWb {
   gap: 1rem;
 }
 
-#skylabWrapper > div > div.sc-joetPs.fIwNWb {
+#skylabWrapper>div>div.sc-joetPs.fIwNWb {
   margin-top: 0.8rem;
   gap: 1rem;
 }
 
-#skylabWrapper > div > div.sc-fVSzNF.iCoiqx > div > div.sc-bMYSqt.hDFksD {
+#skylabWrapper>div>div.sc-fVSzNF.iCoiqx>div>div.sc-bMYSqt.hDFksD {
   display: none;
 }
 
 @media (min-width: 600px) and (max-width: 1000px) {
-  #skylabWrapper > div > div.sc-fVSzNF.iCoiqx > aside {
+  #skylabWrapper>div>div.sc-fVSzNF.iCoiqx>aside {
     display: none;
   }
 }
 
 @media (max-width: 768px) {
-  #skylabWrapper
-    > div
-    > div.sc-fVSzNF.iCoiqx
-    > aside
-    > div
-    > div
-    > div:nth-child(1) {
+  #skylabWrapper>div>div.sc-fVSzNF.iCoiqx>aside>div>div>div:nth-child(1) {
     margin-top: 1rem;
   }
 }
