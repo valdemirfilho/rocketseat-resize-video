@@ -52,6 +52,14 @@ body #skylabWrapper > div {
   display: none;
 }
 
+#app > div.sc-cBYayr.fPGbor > div.sc-fnlXYz.idxAQy {
+  display: none;
+}
+
+#skylabWrapper > div > div.sc-iyHKyE.jPZbC {
+  margin-bottom: 0;
+}
+
 @media (min-width: 600px) and (max-width: 1000px) {
   #skylabWrapper > div > div.sc-fVSzNF.iCoiqx > aside {
     display: none;
