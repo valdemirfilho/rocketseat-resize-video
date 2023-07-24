@@ -1,6 +1,6 @@
 # ![](https://raw.githubusercontent.com/valdemirfilho/rocketseat-resize-video/main/images/icon-32.png) Rocketseat Resize Video
 
-## 👉 Versão atual: v1.1-beta
+## 👉 Versão atual: v1.1
 
 Extensão para redimensionar os vídeos das aulas da plataforma de ensino da Rocketseat
 
